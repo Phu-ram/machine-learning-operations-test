@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47ccef0d-9bb1-4ddc-b84c-0e61c2d94561" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy-package.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.isort.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pylintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/functions/evaluate_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/functions/pre_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/models/catboost_regressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/models/gradient_boosting_regressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/models/random_forest_regressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/models/xgboost_regressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainer/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_placeholder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/deprecated/models.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/refactor_notebook" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/vertex-ai" />
+                    <option name="lastUsedInstant" value="1699429162" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/refactor_notebook" />
+                    <option name="lastUsedInstant" value="1698825417" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1698825416" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XZ8kZauavQbNgiIvauOlkYjSiV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/vertex-ai",
+    "last_opened_file_path": "/home/phupirat/Projects/Personal/machine-learning-operations-test/tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/trainer" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/deprecated" />
+      <recent name="$PROJECT_DIR$/src/infrastructure/restaurant_model_prediction" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47ccef0d-9bb1-4ddc-b84c-0e61c2d94561" name="Changes" comment="" />
+      <created>1698825384100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698825384100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature/refactor_notebook" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/vertex-ai" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
